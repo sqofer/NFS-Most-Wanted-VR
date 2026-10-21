@@ -1,6 +1,6 @@
 # Most Wanted VR
 
-![Most Wanted VR](launcher/assets/MWLogobQ.png)
+![Most Wanted VR](MWLogobQ.png)
 
 OpenXR VR mod for **Need for Speed Most Wanted (2012)**. Created by **sqofer**.
 This repository contains the renderer, English Windows launcher, single-EXE installer,
